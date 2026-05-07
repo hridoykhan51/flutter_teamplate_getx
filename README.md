@@ -149,3 +149,4 @@ lib/
 - Keep the boilerplate repo updated with improvements; use it for all new projects.
 - Scripts are cross-platform: Mac/Linux and Windows.
 # flutter_teamplate_getx
+# flutter_teamplate_getx
